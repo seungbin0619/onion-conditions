@@ -1,15 +1,18 @@
 {
-  "name": "com.onion.template",
-  "version": "1.0.0",
-  "displayName": "Onion Template Package",
-  "description": "",
+  "name": "com.onion.conditions",
+  "version": "0.1.0",
+  "displayName": "Onion Conditions",
+  "description": "Inspector-composed conditions over Onion Variables, with reusable condition assets and change watchers.",
   "unity": "6000.0",
   "author": {
     "name": "Seungbin"
   },
   "hideInEditor": false,
+  "dependencies": {
+    "com.onion.variables": "0.1.0"
+  },
   "repository": {
-    "url": "",
+    "url": "https://github.com/onion-unity/onion-conditions.git",
     "type": "git"
   }
 }

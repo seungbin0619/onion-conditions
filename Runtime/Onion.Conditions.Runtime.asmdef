@@ -1,12 +1,10 @@
 {
-    "name": "Onion.Template.Editor",
-    "rootNamespace": "Onion",
+    "name": "Onion.Conditions.Runtime",
+    "rootNamespace": "Onion.Conditions",
     "references": [
-        "Onion.Template.Runtime"
+        "Onion.Variables.Runtime"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
